@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+//         月份轉換
         Scanner scn = new Scanner(System.in);
         int m = scn.nextInt();
         switch (m){
